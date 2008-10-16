@@ -16,3 +16,19 @@ C:\Documents and Settings\benjaminp\My Documents\Visual Studio 2005\Projects\Dar
 C:\Documents and Settings\benjaminp\My Documents\Visual Studio 2005\Projects\DarkThorne\DarkThorne\obj\Release\DarkThorne.csproj.GenerateResource.Cache
 C:\Documents and Settings\benjaminp\My Documents\Visual Studio 2005\Projects\DarkThorne\DarkThorne\obj\Release\DarkThorne.exe
 C:\Documents and Settings\benjaminp\My Documents\Visual Studio 2005\Projects\DarkThorne\DarkThorne\obj\Release\DarkThorne.pdb
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Debug\DarkThorne.exe
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Debug\DarkThorne.pdb
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\bin\Debug\DarkThorne.exe
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\bin\Debug\DarkThorne.pdb
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Debug\DarkThorne.AdventureViewer.resources
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Debug\DarkThorne.Properties.Resources.resources
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Debug\DarkThorne.csproj.GenerateResource.Cache
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\bin\Release\DarkThorne.exe
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\bin\Release\DarkThorne.pdb
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Release\DarkThorne.AdventureViewer.resources
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Release\DarkThorne.Properties.Resources.resources
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Release\DarkThorne.csproj.GenerateResource.Cache
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Release\DarkThorne.exe
+C:\Documents and Settings\benjaminp\My Documents\temp\darkthorne\DarkThorne\obj\Release\DarkThorne.pdb
