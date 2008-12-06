@@ -23,6 +23,9 @@ namespace DarkThorne
 		private int player_health;
 		private int player_mana;
 		
+        /// <summary>
+        /// Default Constructor
+        /// </summary>
 		public player()
 		{
 			this.player_name = string.Empty;
@@ -37,6 +40,13 @@ namespace DarkThorne
 			this.player_wisdom = 0;
 		}
 		
+        /// <summary>
+        /// Parameterized Constructor
+        /// </summary>
+        /// <param name="name">Name of Character</param>
+        /// <param name="intellect">Intellect rating of Character</param>
+        /// <param name="level">Level of Character</param>
+        /// <param name="strength">Strength rating of Character</param>
 		public player( string name, int intellect, int level, int strength)
 		{
 			this.player_name = name;
@@ -51,23 +61,57 @@ namespace DarkThorne
 			this.player_wisdom = 0;
 		}
 		
+        /// <summary>
+        /// Sets the Level of the Character.
+        /// </summary>
+        /// <param name="level">Desired level to be set.</param>
 		public void SetLevel( int level)
 		{
 			this.player_level = level;
 		}
 		
+        /// <summary>
+        /// GetLevel of Character.
+        /// </summary>
+        /// <returns>Level of character</returns>
 		public int GetLevel()
 		{
 			return this.player_level;
 		}
+
+        /// <summary>
+        /// HasName determines if the Character has a name.
+        /// </summary>
+        /// <returns>True or False if the Character has a name.</returns>
+        public bool HasName()
+        {
+            if (this.player_name.Equals(string.Empty))
+                return false;
+            return true;
+        }
+
+        /// <summary>
+        /// Set the name of the Character.
+        /// </summary>
+        /// <param name="name">Desired name to be set.</param>
 		public void SetName(string name)
 		{
 			this.player_name = name;
 		}
+
+        /// <summary>
+        /// Get the name of the Character.
+        /// </summary>
+        /// <returns>The name of the Character.</returns>
 		public string GetName()
 		{
 			return this.player_name;
 		}
+
+        /// <summary>
+        /// Set the intellect of the Character.
+        /// </summary>
+        /// <param name="intellect">Desired value for intellect.</param>
 		public void SetIntellect(int intellect)
 		{
 			this.player_intellect = intellect;

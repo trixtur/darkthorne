@@ -47,6 +47,8 @@
       <DependentUpon>AdventureViewer.cs</DependentUpon>
     </Compile>
     <Compile Include="Command_Handler.cs" />
+    <Compile Include="Driver.cs" />
+    <Compile Include="player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AdventureViewer.resx">
