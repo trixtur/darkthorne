@@ -11,10 +11,13 @@ namespace DarkThorne
     public partial class AdventureViewer : Form
     {
         Command_Handler m_handler;
+        Driver gameDriver;
         private void AdventureViewer_Load(object sender, EventArgs e)
         {
             m_outputBox.AppendText("Welcome to DarkThorne!\n");
-            m_handler = new Command_Handler(m_outputBox);
+            gameDriver = new Driver();
+            m_handler = new Command_Handler(m_outputBox, gameDriver);
+            gameDriver.AddHandler(m_handler);
         }
 
         public AdventureViewer()
@@ -46,8 +49,6 @@ namespace DarkThorne
                 m_inputBox.AppendText( ((char)e.KeyData).ToString());
             e.SuppressKeyPress = true;
         }
-
-
 
     }
 }
