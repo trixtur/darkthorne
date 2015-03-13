@@ -1,0 +1,1 @@
+DarkThorne is an adventure game idea that has been developed as a proof of concept. The idea of the project is to design the game without the overhead of graphics so that game concepts, and rules along with game play dynamics can be tested.
